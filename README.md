@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Felichitaaa
-- 👀 I’m interested in improve my programing skills.
+- 👀 I’m interested in improving my programing skills.
 - 🌱 I’m currently learning programming language -> Python and Master's degree with Fine Art.
 - 💞️ I’m looking to collaborate with people who have interests in programing world.
 - 📫 How to reach me --> Here is my email: nadezhda.zlatkova98@gmail.com
