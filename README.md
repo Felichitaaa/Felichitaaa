@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Felichitaaa
 - 👀 I’m interested in improving my programing skills.
-- 🌱 I’m currently learning programming language -> Python and Master's degree with Fine Art.
-- 💞️ I’m looking to collaborate with people who have interests in programing world.
+- 🌱 I’m currently studying programming -> with Python in Softuni.
+-  I've also know how to read and use CSS & HTML. 
+- 💞️ I’m looking to collaborate with people who have interests in the programming world.
 - 📫 How to reach me --> Here is my email: nadezhda.zlatkova98@gmail.com
 
 <!---
